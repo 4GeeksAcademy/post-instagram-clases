@@ -1,0 +1,61 @@
+.post {
+    margin-top: 150px;
+    margin-right: 150px;
+    width: 650px;
+    display: flex;
+}
+body {
+    margin-left: 30px;
+    padding-bottom: 30px;
+    width: 659px;
+}
+.ladoizquierdo {
+    display: flex;
+}
+.texto {
+    padding-left: 15px;
+}
+
+.ladoderecho {
+    width: 628px;
+    align-items: end;
+    display: flex;
+}
+
+.photo {
+    border-radius: 12px;
+}
+.iconos {
+    display: flex;
+}
+.html5 {
+    font-size: 25px;
+    padding-left: 10px;
+
+}
+.des {
+    padding-left: 35px;
+    padding-bottom: 35px;
+}
+.heart {
+    padding-right: 10px;
+    font-size: 30px;
+    
+}
+.heart:hover {
+    color: red;
+}
+.plane {
+    font-size: 30px;
+}
+.comment {
+    padding-right: 10px;
+    font-size: 30px;
+}
+.bookmark {
+    padding-left: 500px;
+    font-size: 30px;
+}
+.bookmark:hover {
+    color: brown;
+}
